@@ -42,6 +42,17 @@
 
 1. Style the header, footer, and main content by modifying font size, color, aligning text where necessary, font color, background colors, background images, etc.
 
+1. Create a new repository in GitHub called `my_first_website`.
+
+1. Initialize `git` by entering the command `git init` into the terminal.
+
+1. Commit the changes you made to your new repository by entering the following commands:
+
+- `git add .` then enter
+- `git commit -m "description of your changes"` then enter
+- `git remote add origin https://github.com/{YOUR REPOSITORY NAME}/my_first_website.git` then enter
+- `git push --set-upstream origin master`
+
 1. Commit your file to GitHub and publish to GitHub pages (Remember, it will take a few minutes before it is accessible in the browser).
 
 ---
