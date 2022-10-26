@@ -53,6 +53,14 @@
 
 1. Commit your file to GitHub and publish to GitHub pages (Remember, it will take a few minutes before it is accessible in the browser).
 
+### How to publish to GitHub Pages
+
+- Go to `Settings` within your repository.
+- Click `Pages`, then under `Branch`, click the `None` dropdown and select `Master`
+- Click `Save`
+- The link will render at the top of the page for you to visit.
+- Remember it takes several minutes before the website is active.
+
 ---
 
 ## Congratulations, you just created your first website!
