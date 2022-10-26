@@ -12,9 +12,7 @@
 
 ### Instructions
 
-1. Go to GitHub and clone `my_first_website` using your terminal.
-
-1. Open `my_first_website` in Visual Studio Code.
+1. Create a directory called `my_first_website` and open in Visual Studio Code.
 
 1. Create a file called `index.html`.
 
